@@ -29,14 +29,13 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
-
+![WhatsApp Image 2025-12-05 at 22 00 14](https://github.com/user-attachments/assets/dba3422d-e185-44f9-a1ea-211d9e9527eb)
 
 
 ---
 
 ## MODEL GRAPH
-<img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
+![WhatsApp Image 2025-12-05 at 22 00 53](https://github.com/user-attachments/assets/e036525d-3339-47c6-b91e-984fd5c5ed3d)
 
 ## DESIGN
 
@@ -57,16 +56,12 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
+![WhatsApp Image 2025-12-05 at 22 01 50](https://github.com/user-attachments/assets/7843ef99-e1c8-4e57-8e6a-fa6b8f2f62dd)
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 22 02 40](https://github.com/user-attachments/assets/18a62f92-99ff-41cd-9d62-540d6e9811f0)
 
 
 ---
@@ -90,13 +85,11 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
-
+![WhatsApp Image 2025-12-05 at 22 03 25](https://github.com/user-attachments/assets/dcd30f6b-0c6f-48cc-b6dd-4fa65aae23c9)
 
 ---
 ## MODEL GRAPH
-<img width="414" height="325" alt="image" src="https://github.com/user-attachments/assets/1cc285f7-05c7-4b65-af59-b28cf039fcd3" />
-
+![WhatsApp Image 2025-12-05 at 22 03 58](https://github.com/user-attachments/assets/6a316a15-41d3-4139-b330-91b33af464f3)
 ---
 
 ## DESIGN
@@ -125,15 +118,11 @@ Rf = 15K *2=30KΩ
 ## TABULATION/OBSERVATION
 
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
+![WhatsApp Image 2025-12-05 at 22 05 01](https://github.com/user-attachments/assets/49c3dbe1-4b21-4700-bbb5-8f4fd59911f9)
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-05 at 22 05 54](https://github.com/user-attachments/assets/839872e7-7443-48a9-ad0e-b77f660b2171)
 
 
 ---
